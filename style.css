@@ -4,8 +4,23 @@ h3 { color: blueviolet;}
 h4 { color: seagreen;}
 h5 { color: violet;}
 h6 { color: indigo;}
-p1 {color: aqua;}
+p1 { color: aqua;}
 body {
-	background-color: #F4F4F4;
-	color: #555555
+	background-color: #FFD372;
+	color: #555555;
+	font-family: 'Pacifico', cursive;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.6em;
+	margin: 0px;
 }
+.box-1 {
+	background-color: #000000;
+	color: #FFFFFF;
+	
+}
+.container {
+	width: 80%;
+	margin: auto;
+}
+
